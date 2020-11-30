@@ -1,0 +1,26 @@
+{
+	"name": "helpers",
+	"version": "1.0.0",
+	"description": "Helping functions, that can often be needed",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ArtInLines/helpers.git"
+	},
+	"keywords": [
+		"utilities",
+		"helpers"
+	],
+	"author": "artinlines",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ArtInLines/helpers/issues"
+	},
+	"homepage": "https://github.com/ArtInLines"
+}
